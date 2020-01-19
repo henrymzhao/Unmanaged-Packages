@@ -1,0 +1,29 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "meta-trigger",
+            "package": "meta-trigger",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "error-handler",
+            "package": "error-handler",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "meta-trigger": "0Ho6g0000008ObZCAU",
+        "error-handler": "0Ho6g0000008ObeCAE"
+    }
+}
